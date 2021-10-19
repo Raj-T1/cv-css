@@ -50,8 +50,8 @@ li{
 
 
 
-h2 u{
-    color: violet;
+h2 {
+    color: rgb(236, 238, 130);
     text-align: center;
 }
 
@@ -103,6 +103,11 @@ img{
 
 #header{
     position: relative;
+}
+
+strong{
+    color: violet;
+    text-align: center;
 }
 
 
